@@ -1,9 +1,10 @@
 checking for fork
 added line 2
-
+git commit -m
 git revert
 git log
 git stash
+git squash
 
 
 
